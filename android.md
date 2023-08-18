@@ -437,7 +437,7 @@ class NewsContentFragment(private val title: String, private val content: String
 
 - xml 里面使用 FrameLayout 作为容器,动态的加载 Fragment
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
